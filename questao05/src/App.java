@@ -10,8 +10,8 @@ public class App {
 
         System.out.println("Palavra invertida: " + palavraInvertida);
 
-        ler.close();
-
+        ler.close();  
+        
     }
 
     public static String inverterPalavra(String input) {
